@@ -10,6 +10,7 @@ layout: default
 * Лекция 3. [Scala basic II. От конструкторов типов до коллекций](lectures/scala_lecture_3.html)
 * Лекция 4. [Функциональное программирование. Концепция](lectures/scala_lecture_4.html)
 * Лекция 5. [Функциональное программирование. Type classes и абстракции](lectures/scala_lecture_5.html)
+* Лекция 6. [ZIO. Функциональное программирование](lectures/scala_lecture_6/index.html)
 * Лекция 7. [ZIO. Асинхронность и многопоточность. Управление ресурсами](lectures/scala_lecture_7/index.html)
 
 ### Домашние задания
